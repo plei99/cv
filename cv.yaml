@@ -31,19 +31,19 @@ cv:
       - title: "Higher genus Gromov-Witten theory of one-parameter Calabi-Yau threefolds II: Feynman rule and anomaly equations"
         authors:
           - Patrick Lei
-        venue: arXiv preprint
+        journal: arXiv preprint
         date: 2024-12
         url: https://arxiv.org/abs/2412.06527    
       - title: "Higher-genus Gromov-Witten theory of one-parameter Calabi-Yau threefolds I: Polynomiality"
         authors:
           - Patrick Lei
-        venue: arXiv preprint
+        journal: arXiv preprint
         date: 2024-09
         url: https://arxiv.org/abs/2409.11659    
       - title: MSP theory for smooth Calabi-Yau threefolds in weighted $$bb(P)^4$$
         authors:
           - Patrick Lei
-        venue: arXiv preprint
+        journal: arXiv preprint
         date: 2024-09
         url: https://arxiv.org/abs/2409.11660
     invited_talks:
