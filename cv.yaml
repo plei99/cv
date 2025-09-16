@@ -33,19 +33,19 @@ cv:
           - Patrick Lei
         venue: arXiv preprint
         date: 2024-12
-        link: https://arxiv.org/abs/2412.06527    
+        url: https://arxiv.org/abs/2412.06527    
       - title: "Higher-genus Gromov-Witten theory of one-parameter Calabi-Yau threefolds I: Polynomiality"
         authors:
           - Patrick Lei
         venue: arXiv preprint
         date: 2024-09
-        link: https://arxiv.org/abs/2409.11659    
+        url: https://arxiv.org/abs/2409.11659    
       - title: MSP theory for smooth Calabi-Yau threefolds in weighted $$bb(P)^4$$
         authors:
           - Patrick Lei
         venue: arXiv preprint
         date: 2024-09
-        link: https://arxiv.org/abs/2409.11660
+        url: https://arxiv.org/abs/2409.11660
     invited_talks:
       - name: Algebraic Geometry Seminar
         location: University of Maryland
