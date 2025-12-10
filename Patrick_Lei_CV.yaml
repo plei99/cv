@@ -47,7 +47,7 @@ cv:
         date: 2024-09
         url: https://arxiv.org/abs/2409.11660
     invited_talks:
-      - name: Quantum Geometry: from Invariants to Categories, and back
+      - name: "Quantum Geometry: from Invariants to Categories, and back"
         location: Institute of Mathematical Sciences, Shanghai Tech University
         date: 2026-07-06
       - name: AMS Eastern Sectional Meeting
