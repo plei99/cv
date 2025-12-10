@@ -18,7 +18,7 @@ cv:
         end_date: 2025-05
         location: New York, NY
         summary: |
-          Advisor: Chiu-chu Melissa Liu
+          Advisor: Chiu-Chu Melissa Liu
       - institution: University of Massachusetts Amherst
         area: Mathematics, Computer Science
         degree: B.S.
@@ -47,6 +47,16 @@ cv:
         date: 2024-09
         url: https://arxiv.org/abs/2409.11660
     invited_talks:
+      - name: Quantum Geometry: from Invariants to Categories, and back
+        location: Institute of Mathematical Sciences, Shanghai Tech University
+        date: 2026-07-06
+      - name: AMS Eastern Sectional Meeting
+        location: Boston College
+        date: 2026-03-28
+        summary: Special session on geometry of moduli spaces
+      - name: Algebraic Geometry Seminar
+        location: Boston College
+        date: 2025-10-30
       - name: Algebraic Geometry Seminar
         location: University of Maryland
         date: 2025-09-15
@@ -74,7 +84,7 @@ cv:
       - name: Algebraic Geometry Seminar
         location: University of Illinois Urbana-Champaign
         date: 2024-09-24
-    seminars_organized:
+    organization:
       - name: Learning seminar on computations in enumerative geometry
         location: Columbia University
         date: Spring 2025
@@ -93,6 +103,9 @@ cv:
       - name: Learning seminar on geometric invariant theory
         location: Columbia University
         date: Fall 2020
+      - name: Michael Zhao Memorial Student Colloquium
+        location: Columbia University
+        date: Fall 2020--Fall 2021
     teaching:
       - name: Linear Algebra
         location: Boston College
