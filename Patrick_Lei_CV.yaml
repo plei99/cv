@@ -264,7 +264,7 @@ locale:
     - October
     - November
     - December
-rendercv_settings:
-  date: 'today'
+settings:
+  current_date: today
   render_command:
   bold_keywords: []
